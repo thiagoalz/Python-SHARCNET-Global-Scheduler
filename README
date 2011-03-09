@@ -1,0 +1,4 @@
+A simple global scheduler developed to work with the SHARCNET Cluster of Clusters. 
+Using pexpect, it ssh to the clusters in a list and run many comands of the LSF local scheduler. After that, it can choose the most available cluster that meets the user requirenments.
+
+Part of my masters thesis, it can be helpfull if you want an example of using pexpect to make a python program interact with a computer.
